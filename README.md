@@ -1,4 +1,8 @@
 # UseMotion.Net.Sdk
+
+> [!WARNING]
+> **Deprecated:** this project is no longer maintained. The repository is archived and read-only; the code stays available as-is.
+
 This is a .NET SDK that I created to work with the Motion (https://www.usemotion.com/) API.
 
 Please go to https://docs.usemotion.com/docs/motion-rest-api/44e37c461ba67-motion-rest-api to learn about thier api and some of the considerations (i.e. whats required, how data should be formatted, etc.
