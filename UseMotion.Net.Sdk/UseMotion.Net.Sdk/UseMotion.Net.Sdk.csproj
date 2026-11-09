@@ -8,7 +8,7 @@
         <Version>2023.05.20.03</Version>
         <Title>UseMotion /NET SDK</Title>
         <Description>.NET SDK for Use Motion App API</Description>
-        <RepositoryUrl>https://github.com/JamesStuder/UseMotion.Net.Sdk</RepositoryUrl>
+        <RepositoryUrl>https://github.com/StuderWorks/UseMotion.Net.Sdk</RepositoryUrl>
         <RepositoryType>GitHub</RepositoryType>
         <PackageTags>UseMotion, .NET, API</PackageTags>
         <AssemblyVersion>2023.05.20.03</AssemblyVersion>
